@@ -13,5 +13,3 @@ As they walked through the shadowy woods, Alex couldn't shake the feeling that t
 They emerged into a clearing where a figure waited—tall, cloaked, and radiating an aura of mystery. It was Luna.
 
 "Alex," Luna said, their voice like wind through leaves. "We've been waiting for you."
-
-changes
