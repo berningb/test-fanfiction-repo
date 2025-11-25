@@ -15,5 +15,3 @@ Alex looked at the map, tracing the route from Crystal Tower to Northern Keep. T
 "What's happening at Northern Keep?" Alex asked.
 
 "War," Luna said simply. "And we're needed there."
-
-bob
