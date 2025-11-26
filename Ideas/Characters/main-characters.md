@@ -24,3 +24,4 @@
 - Personality: Calm, strategic
 - Arc: Opening up emotionally
 
+

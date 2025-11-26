@@ -12,3 +12,4 @@
 - Motivation: Maintaining status quo
 - Weakness: Internal conflict
 
+

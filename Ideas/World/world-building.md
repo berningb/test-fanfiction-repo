@@ -24,3 +24,4 @@
 - Magic users' guild
 - Common people
 
+
