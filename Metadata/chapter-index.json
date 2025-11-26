@@ -1,0 +1,29 @@
+{
+  "seasons": [
+    {
+      "season": 1,
+      "chapters": 12,
+      "path": "Ideas/Season-01/Chapters"
+    },
+    {
+      "season": 2,
+      "chapters": 12,
+      "path": "Ideas/Season-02/Chapters"
+    },
+    {
+      "season": 3,
+      "chapters": 10,
+      "path": "Ideas/Season-03/Chapters"
+    },
+    {
+      "season": 4,
+      "chapters": 8,
+      "path": "Ideas/Season-04/Chapters"
+    }
+  ],
+  "standalone": {
+    "path": "Ideas/Chapters",
+    "chapters": 5
+  }
+}
+

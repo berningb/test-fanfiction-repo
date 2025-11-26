@@ -1,0 +1,11 @@
+{
+  "title": "The Eldoria Chronicles",
+  "author": "Test Author",
+  "description": "A fantasy epic about magic, friendship, and saving the world",
+  "genres": ["Fantasy", "Adventure", "Magic"],
+  "status": "In Progress",
+  "totalSeasons": 4,
+  "totalChapters": 42,
+  "lastUpdated": "2024-01-01"
+}
+
